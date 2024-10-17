@@ -21,7 +21,7 @@ services:
       - key: DATABASE_URI
         sync: mongodb+srv://ragulrajrealme:Ragul@vjfilebeta.g6khe.mongodb.net/?retryWrites=true&w=majority&appName=VJFileBeta
       - key: LOG_CHANNEL
-        sync: -1001909657560
+        sync: -1002061061565
       - key: SHORTLINK_URL
         sync: gplinks.com
       - key: SHORTLINK_API
