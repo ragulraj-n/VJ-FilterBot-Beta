@@ -5,8 +5,8 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo: https://github.com/ragulraj-n/VJ-FilterBot-Beta/tree/Tech_VJ.git      
-    branch: Tech_VJ
+    repo: https://github.com/ragulraj-n/VJ-FilterBot-Beta.git      
+    branch: main
     envVars:
       - key: BOT_TOKEN 
         sync: 7936388761:AAF2MJBR_Q5L5vqUFjD_POY5Al87o81a6tA
