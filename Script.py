@@ -232,7 +232,7 @@ Nᴀᴍᴇ - {}"""
 
 <b> Size ⚙️: {file_size}</b>
 
-<b>Jᴏɪɴ - @TN_Uᴘʟᴏᴀᴅᴢ""" 
+<b>Jᴏɪɴ ɴᴏᴡ - <a href=https://t.me/TN_Uploadz >TN_Uᴘʟᴏᴀᴅᴢ</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
