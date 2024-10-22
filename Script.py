@@ -232,7 +232,8 @@ Nᴀᴍᴇ - {}"""
 
 <b> Size ⚙️: {file_size}</b>
 
-<b>Jᴏɪɴ ɴᴏᴡ - <a href=https://t.me/TN_Uploadz >TN_Uᴘʟᴏᴀᴅᴢ</a></b>""" 
+<b>Jᴏɪɴ ɴᴏᴡ - <a href=https://t.me/TN_Uploadz >TN_Uᴘʟᴏᴀᴅᴢ</a></b>
+<b>Cʀᴇᴀᴛᴏʀ - <a href=https://t.me/TonyStark_xSpidy >Tᴏɴʏ Sᴛᴀʀᴋ⚡️</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
